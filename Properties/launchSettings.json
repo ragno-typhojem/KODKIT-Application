@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "KodKit (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "KodKit (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
